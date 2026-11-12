@@ -95,4 +95,4 @@ Dataset: Tschandl, P., Rosendahl, C. & Kittler, H. *The HAM10000 dataset, a larg
 
 ## Author
 
-Deepak Kumar · B.Tech CSE · [LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/deepak-kumar-da)
+Deepak Kumar · [LinkedIn](https://www.linkedin.com/in/deepakkumar915176/)
