@@ -2,9 +2,7 @@
 
 Explainable 7-class skin lesion classification with transfer learning (EfficientNet-B0), Grad-CAM heatmaps and a deployed Streamlit app.
 
-**[Live demo](https://skin-lesion-classification-6x.streamlit.app)** · [Training notebook](skin-lesion-classification.ipynb)
-
-> Educational project. Not a medical device and not a substitute for professional advice.
+**[Live demo](https://skin-lesion-classification-6x.streamlit.app)** · [Training notebook](skin_lesion_classification.ipynb)
 
 ![Demo](assets/demo.gif)
 
